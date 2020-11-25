@@ -666,6 +666,7 @@ img {
   position: relative;
   padding-right: 62px;
   padding-left: 29px;
+  outline: none;
 }
 
 .footer-form-btn-name {
@@ -871,11 +872,11 @@ img {
   fill: var(--accent-color);
 }
 
-/* .is-hidden {
+.is-hidden {
   opacity: 0;
   visibility: hidden;
   pointer-events: none;
-} */
+}
 
 /* ==========BACKDROP END========== */
 
